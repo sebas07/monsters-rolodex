@@ -1,0 +1,7 @@
+input.search-box-field {
+    height: 50px;
+    width: 30%;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
